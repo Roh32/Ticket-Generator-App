@@ -1,8 +1,12 @@
 {
+  "name": "ticket-generator-app",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Conference ticket generator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/conference-ticket-generator-oq5gFIU12w). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
   "scripts": {
-    "start": "servor --reload"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "servor": "^4.0.2"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
